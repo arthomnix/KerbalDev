@@ -183,7 +183,7 @@ prepareSandbox {
     })
 
     into("${rootProject.name}/projectTemplates") {
-        from 'SpaceWarp.Template/SpaceWarp.Template/templates'
+        from 'KerbalDev-SpaceWarp.Template/SpaceWarp.Template/templates'
     }
 
     doLast {
