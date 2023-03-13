@@ -182,7 +182,7 @@ prepareSandbox {
         from(file, { into "${rootProject.name}/dotnet" })
     })
 
-    into("$intellij.pluginName/projectTemplates") {
+    into("${rootProject.name}/projectTemplates") {
         from 'SpaceWarp.Template/SpaceWarp.Template/templates'
     }
 
