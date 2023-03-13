@@ -1,0 +1,18 @@
+﻿<Project>
+
+  <PropertyGroup>
+    <SdkVersion>2022.3.1</SdkVersion>
+
+    <Title>KerbalDev</Title>
+    <Description>Rider plugin for KSP 2 mod development</Description>
+
+    <Authors>arthomnix</Authors>
+    <Copyright>Copyright $([System.DateTime]::Now.Year) arthomnix</Copyright>
+    <PackageTags>resharper plugin</PackageTags>
+
+    <PackageProjectUrl></PackageProjectUrl>
+    <PackageLicenseUrl></PackageLicenseUrl>
+    <PackageIconUrl></PackageIconUrl>
+  </PropertyGroup>
+
+</Project>
