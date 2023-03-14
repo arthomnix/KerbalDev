@@ -185,6 +185,11 @@ prepareSandbox {
     into("${rootProject.name}/projectTemplates") {
         from 'KerbalDev-SpaceWarp.Template/SpaceWarp.Template/templates'
     }
+    
+    // Include license file (required by KSP forum rules)
+    into("${rootProject.name}") {
+        from 'LICENSE'
+    }
 
     doLast {
         dllFiles.forEach({ f ->
