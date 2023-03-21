@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.3
+- Bugfix update to template
+
 ## 0.1.2
 - Update template with latest upstream changes to use SpaceWarp 1.0.1
 
