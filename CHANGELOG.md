@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.5
+- Update template to 1.1.1.2
+
 ## 0.1.4
 - Update to Rider 2023.1.x
 
