@@ -3,7 +3,7 @@
   <name>KSP 2 Development</name>
   <version>0.1.5</version>
   <vendor>arthomnix</vendor>
-  <idea-version since-build="231" until-build="231.*" />
+  <idea-version since-build="231" />
   <depends>com.intellij.modules.rider</depends>
 
   <description>
